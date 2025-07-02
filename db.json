@@ -1,0 +1,14 @@
+{
+  "pengunjung": [
+    {
+      "id": 1,
+      "nama": "Dimas Febri",
+      "email": "dimas@mail.com",
+      "alamat": "Purwokerto",
+      "nim": "STI202102537",
+      "prodi": "TI",
+      "notelpon": "081234567890",
+      "komen": "Website-nya keren!"
+    }
+  ]
+}
